@@ -26,7 +26,8 @@ Example Image Preprocessing:
    - Supports models like ResNet-18 for feature extraction.
 
 4. **Topic Modeling**
-   - Utilizes **K-Means clustering** to derive topics representing different coral reef structures.
+   - Utilizes **K-Means clustering** derive topics representing different coral reef structures within each mask.
+   - This process is done at the same time once all the segmentation masks are retrived. 
    - Automatically selects the optimal number of topics using silhouette analysis.
 
 5. **Visualizations**
