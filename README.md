@@ -29,4 +29,6 @@ This repository focuses on one branch of the project: **automatic coral reef top
    - Generates mask overlays and topic distributions for individual images and global datasets.
    - Uses bar plots and heatmaps to visualize topic contributions across the dataset.
 
+![filter1](https://github.com/user-attachments/assets/920039ac-a7b3-4f39-8794-92e461fefeac)
+![filter2](https://github.com/user-attachments/assets/bdc52e83-fc7d-41c1-b4dd-f545dff28e71)
 
