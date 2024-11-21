@@ -13,6 +13,10 @@ This repository focuses on one branch of the project: **automatic coral reef top
 1. **Coral Reef Image Preprocessing**
    - Enhances images using color normalization.
 
+Example Image Preprocessing:
+![filter1](https://github.com/user-attachments/assets/920039ac-a7b3-4f39-8794-92e461fefeac)
+![filter2](https://github.com/user-attachments/assets/bdc52e83-fc7d-41c1-b4dd-f545dff28e71)
+
 2. **Coral Segmentation with SAM**
    - Generates segmentation masks for reef regions using the Segment Anything Model (SAM).
    - Custom algorithm removes overlapping masks and applies size thresholds.
@@ -27,8 +31,14 @@ This repository focuses on one branch of the project: **automatic coral reef top
 
 5. **Visualizations**
    - Generates mask overlays and topic distributions for individual images and global datasets.
-   - Uses bar plots and heatmaps to visualize topic contributions across the dataset.
+   - Uses bar plots to visualize topic contributions across the dataset.
 
-![filter1](https://github.com/user-attachments/assets/920039ac-a7b3-4f39-8794-92e461fefeac)
-![filter2](https://github.com/user-attachments/assets/bdc52e83-fc7d-41c1-b4dd-f545dff28e71)
+Example Visualizations:
+![FINAL3](https://github.com/user-attachments/assets/765711c4-b866-4314-ba2a-9915eec35e90)
+
+![FINAl1](https://github.com/user-attachments/assets/8c6fc41c-1d3e-4a71-ba1c-4d3049111da5)
+
+
+
+
 
